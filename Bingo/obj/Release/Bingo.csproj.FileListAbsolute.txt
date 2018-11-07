@@ -1,0 +1,9 @@
+C:\Users\ccorpuz\source\repos\Bingo\Bingo\bin\Release\Bingo.exe.config
+C:\Users\ccorpuz\source\repos\Bingo\Bingo\bin\Release\Bingo.exe
+C:\Users\ccorpuz\source\repos\Bingo\Bingo\bin\Release\Bingo.pdb
+C:\Users\ccorpuz\source\repos\Bingo\Bingo\obj\Release\Bingo.Bingo.resources
+C:\Users\ccorpuz\source\repos\Bingo\Bingo\obj\Release\Bingo.Properties.Resources.resources
+C:\Users\ccorpuz\source\repos\Bingo\Bingo\obj\Release\Bingo.csproj.GenerateResource.cache
+C:\Users\ccorpuz\source\repos\Bingo\Bingo\obj\Release\Bingo.csproj.CoreCompileInputs.cache
+C:\Users\ccorpuz\source\repos\Bingo\Bingo\obj\Release\Bingo.exe
+C:\Users\ccorpuz\source\repos\Bingo\Bingo\obj\Release\Bingo.pdb

@@ -1,0 +1,10 @@
+c:\users\ccorpuz\source\repos\Bingo\Bingo\bin\Debug\Bingo.exe.config
+c:\users\ccorpuz\source\repos\Bingo\Bingo\bin\Debug\Bingo.exe
+c:\users\ccorpuz\source\repos\Bingo\Bingo\bin\Debug\Bingo.pdb
+c:\users\ccorpuz\source\repos\Bingo\Bingo\obj\Debug\Bingo.Properties.Resources.resources
+c:\users\ccorpuz\source\repos\Bingo\Bingo\obj\Debug\Bingo.csproj.GenerateResource.cache
+c:\users\ccorpuz\source\repos\Bingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+c:\users\ccorpuz\source\repos\Bingo\Bingo\obj\Debug\Bingo.exe
+c:\users\ccorpuz\source\repos\Bingo\Bingo\obj\Debug\Bingo.pdb
+c:\users\ccorpuz\source\repos\Bingo\Bingo\obj\Debug\Bingo.Bingo.resources
+C:\Users\ccorpuz\source\repos\Bingo\Bingo\obj\Debug\Bingo.csprojAssemblyReference.cache

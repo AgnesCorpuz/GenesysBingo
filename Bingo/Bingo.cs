@@ -110,20 +110,27 @@ namespace Bingo
 
         private void btnClear_Click(object sender, EventArgs e)
         {
-            btnGenerate.Enabled = true;
+            var confirmResult = MessageBox.Show("Are you sure you want to clear?",
+                                     "Confirm Clear",
+                                     MessageBoxButtons.OKCancel);
 
-            string allText = txtAll.Text + " \r\n \r\n" + lblDrawn.Text;
-            txtAll.Text = allText.TrimStart();
+            if (confirmResult == DialogResult.OK)
+            {
+                btnGenerate.Enabled = true;
 
-            lblLetter.Text = "--";
-            lblNumber.Text = "--";
-            lblDrawn.Text = "";
-            lblDrawsLeft.Text = "Draws Left: 75";
-            lblDrawsLeft.ForeColor = Color.Black;
-            lblLetter.ForeColor = Color.Black;
-            lblNumber.ForeColor = Color.Black;
+                string allText = txtAll.Text + " \r\n \r\n" + lblDrawn.Text;
+                txtAll.Text = allText.TrimStart();
 
-            drawsList = new List<string>();
+                lblLetter.Text = "--";
+                lblNumber.Text = "--";
+                lblDrawn.Text = "";
+                lblDrawsLeft.Text = "Draws Left: 75";
+                lblDrawsLeft.ForeColor = Color.Black;
+                lblLetter.ForeColor = Color.Black;
+                lblNumber.ForeColor = Color.Black;
+
+                drawsList = new List<string>();
+            }
         }
 
         private void tmMain1_Tick(object sender, EventArgs e)

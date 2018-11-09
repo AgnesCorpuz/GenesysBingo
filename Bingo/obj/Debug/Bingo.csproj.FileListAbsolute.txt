@@ -8,3 +8,13 @@ c:\users\ccorpuz\source\repos\Bingo\Bingo\obj\Debug\Bingo.exe
 c:\users\ccorpuz\source\repos\Bingo\Bingo\obj\Debug\Bingo.pdb
 c:\users\ccorpuz\source\repos\Bingo\Bingo\obj\Debug\Bingo.Bingo.resources
 C:\Users\ccorpuz\source\repos\Bingo\Bingo\obj\Debug\Bingo.csprojAssemblyReference.cache
+C:\Users\ccorpuz\Documents\0 GitHub\GenesysBingo\Bingo\bin\Debug\Bingo.exe.config
+C:\Users\ccorpuz\Documents\0 GitHub\GenesysBingo\Bingo\bin\Debug\Bingo.exe
+C:\Users\ccorpuz\Documents\0 GitHub\GenesysBingo\Bingo\bin\Debug\Bingo.pdb
+C:\Users\ccorpuz\Documents\0 GitHub\GenesysBingo\Bingo\obj\Debug\Bingo.csprojAssemblyReference.cache
+C:\Users\ccorpuz\Documents\0 GitHub\GenesysBingo\Bingo\obj\Debug\Bingo.Bingo.resources
+C:\Users\ccorpuz\Documents\0 GitHub\GenesysBingo\Bingo\obj\Debug\Bingo.Properties.Resources.resources
+C:\Users\ccorpuz\Documents\0 GitHub\GenesysBingo\Bingo\obj\Debug\Bingo.csproj.GenerateResource.cache
+C:\Users\ccorpuz\Documents\0 GitHub\GenesysBingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+C:\Users\ccorpuz\Documents\0 GitHub\GenesysBingo\Bingo\obj\Debug\Bingo.exe
+C:\Users\ccorpuz\Documents\0 GitHub\GenesysBingo\Bingo\obj\Debug\Bingo.pdb
